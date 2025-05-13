@@ -1,0 +1,2 @@
+Using {response1} for context:
+Please create an Mental status exam based on the information in this soap note

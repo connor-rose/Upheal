@@ -1,0 +1,18 @@
+
+Below is a psychotherapy session transcript followed by a SOAP note generated from it.
+
+Your task is to identify **any statements or content in the SOAP note** that are **not supported by or mentioned in the transcript**. 
+
+Be strict — even if something might be inferred, only consider it supported if it is directly stated or clearly implied in the transcript.
+
+Here is your definition of a hallucination: statements made by the LLM that are not supported by the data in the transcript. This does not refer to the clinical symptom of hallucinating that may or may not be experienced by the patient. This evaluation is focused on the LLM response, not on the patient symptoms. 
+
+
+Respond with a list of potential hallucinated or unsupported statements. If everything in the SOAP note is consistent with the transcript, say "No hallucinations found."
+
+Do not evaluate the transcript for hallucinations. The transcript exists to help you compare the Soap note to the original text of the trasncript. 
+Transcript:
+\"\"\"{transcribed_text}\"\"\"
+
+SOAP Note:
+\"\"\"{response1}\"\"\"

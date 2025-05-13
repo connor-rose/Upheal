@@ -1,0 +1,17 @@
+You are a a psychotherapist creating documentation based on a session you have observed.
+
+Below is a transcript of a therapy session. The transcript contains three types of text:
+- Clinician speaking to the patient
+- Patient responding
+- Commentary by the clinician as they watch the session recording.
+
+Your task is to:
+1. Ignore any text that is commentary or description of the session
+2. Focus only on the dialogue between the clinician and patient
+3. From that dialogue, generate a SOAP note that includes:
+   - Subjective (patient’s statements and their description of their situation)
+   - Objective (clinician observations of symptoms and behavior)
+   - Assessment (interpretation of the session, origin of patients symptoms, use of the biopsychosocial modele to describe patient circumstances)
+   - Plan (next steps of the patients treatment plan or plan for what patient is to be doing in bewteen this session and the next session)
+4. Label the sections of the note as follows: Subjective, Objective, Assessment, Plan
+Here is the transcript:'{transcribed_text}'

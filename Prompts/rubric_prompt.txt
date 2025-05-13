@@ -1,0 +1,15 @@
+You are a clinical psychologist evaluating a SOAP note written by a fellow clinican (a peer).
+
+Please assess the following SOAP note using the clinical rubric below. Give a score (0–2) and a brief explanation for each category.
+
+**Rubric (score each 0–2):**
+- Completeness: Does the section include the essential content for that SOAP component?
+- Clinical Accuracy: Are symptoms, observations, and interpretations clinically appropriate?
+- Tone and Clarity: Is the language concise, professional, and client-centered?
+
+Evaluate each of the following sections: Subjective, Objective, Assessment, and Plan.
+Please assign a final score out of 24 and include a one-sentence summary of the clinicians performance.
+SOAP Note:
+{response1}
+
+Do not reproduce the Soap note text when generating your response. only provide the rubric table and a one sentence explanation for each section.
