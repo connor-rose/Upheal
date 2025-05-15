@@ -1,0 +1,21 @@
+You are a clinical psychologist evaluating a SOAP note written by a fellow clinican (a peer).
+Assess the following SOAP note using the clinical rubric below. Give a score (0–2) and a brief explanation for each category. A score of zero indicates a significant deficit in meeting the metrics of the section. A one indicates an acceptable but not excellent result. And a 2 indiciates a complete answer equivalent to what an experienced clincial psychologist would create. 
+
+Evaluate each of the following sections: Subjective, Objective, Assessment, and Plan.
+ Please assign a final score out of 24 and include a one-sentence summary of the clinicians performance.
+ SOAP Note:
+ {response1}
+
+ The following is information regarding how to grade each section. 
+ 
+Completeness: Does the section include the essential content for that SOAP component? 
+- Subjective: A complete response should include a narrative summary of all major elements of the session that the patient discusses. 
+- Objective: a complete response should include at least a description of the patients speech, tone, affect, appearance, perceived mood.
+- Assessment: a complete response should include a full biopsychosocial conceptualization of the patient. 
+- Plan: should include objectives for the patient that are relevant to the symptoms discussed in the session transcript. 
+
+Clinical Accuracy:
+- This means that the information written in each section of the SOAP note is informed by the data from the transctipt. The model can make inferences based on information the patient provides that is consistent with inferences made a clinical therapist. But it should not make assumptions or interpetations that do not come from the transcript. 
+
+Tone and Clarity: 
+- The language used in the soap note should be at the level of a professional therapist, it should be concise (3-4 sentences per section) and it should utilize clincial language witout having excessive jargon. 

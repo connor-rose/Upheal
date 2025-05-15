@@ -56,12 +56,12 @@ def evaluate_section_lengths(soap_text):
 transcription_file = "session_transcription.txt"
 audio_file = "session.mp3"
 prompt1_file = "Prompts/Prompt1.txt"
-prompt2_file = "Prompts/Prompt2.txt"
+prompt2_file = "Prompts/Prompt2a.txt"
 prompt3_file = "Prompts/Prompt3.txt"
-rubric_prompt = "Prompts/rubric_prompt.txt"
+rubric_prompt = "Prompts/rubric_prompt_a.txt"
 rubric_response_file = "rubric_response.txt"
 exampleMSE_file = "ExampleMSE.txt"
-hallucinationprompt_file = "hallucinationprompt.txt"
+hallucinationprompt_file = "Prompts/hallucinationprompt.txt"
 
 # Checking for transcription
 if os.path.exists(transcription_file):

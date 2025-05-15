@@ -1,0 +1,206 @@
+/Users/connorrose/Developer/Upheal/venv/bin/python /Users/connorrose/Developer/Upheal/gemini_demo.py
+venvconnorrose@MacBook-Air Upheal % /Users/connorrose/Developer/Upheal/venv/bin/python /Users/connorrose/Developer/Upheal/gemini_demo.py
+Loading transcription from file...
+Generating first response...
+**Subjective:**
+
+*   "Things are okay. This work is just insane right now."
+*   Expresses frustration with a coworker, Dave, who is not completing assigned tasks, making Martha's work more difficult.
+*   "I don't know if other people aren't feeling it, or if they just don't show it in the same way...it's mainly just like when he does things like that where he just drops all of his tasks."
+*   Discusses feelings related to her boyfriend, Josh, and his disappearing for days without contact, which feels "childish."
+*   "I don't know, I feel like...I mean, as I said that he disappears sometimes, just for a few days and doesn't text or anything."
+*   Relates an incident where Josh canceled on a close friend's wedding a couple of days before, offering a vague excuse about his mother.
+*   "It just felt, I don't know, like he wasn't aware of how it would make me feel...also like to do that over text."
+*   Expresses a desire for a long-term relationship with mutual care and checking-in, but feels it's difficult to be dependent on Josh.
+*   "Part of me just wants to be in a relationship where...we can look after each other...someone who's aware of my feelings."
+*   "It feels like a rollercoaster and it's exhausting."
+*    "I love him so much that like to think about not being with him is just I don't know. Can I just put up with with like him flaking out."
+*   "Maybe it's okay to be a little dependent on each other in terms of checking in. Do you feel that you can be dependent on Josh?"
+*   "I feel like I am at time but then I always have to be aware that like you might like out."
+*   "Then I always have to be aware that like you might like out."
+*   Expresses fear of expressing her needs, fearing she will be perceived as a "needy girlfriend."
+*   "I'm the one that's always taking care of other people. And like then on some level, I feel like I had to then take care of Josh."
+*    "You always want to be in that relationship of somebody who you even have to do with the looking after."
+*   "There are things that I would want from him more so than if we were just like casually dating… some level of consistency."
+
+**Objective:**
+
+*   Client initially presents with some anxiety at the start of the session.
+*   Client demonstrates an externalized focus, frequently discussing others (Dave, Josh) rather than her own feelings.
+*   Incongruence noted between client's smiling/laughing and the annoyance she describes.
+*   Client's affect shifts during the session, becoming more serious and less prone to smiling as she discusses deeper feelings related to her relationship with Josh.
+*   Client's pace of speech slows as session progresses and topics become deeper
+*    Client displays difficulty identifying and expressing her own needs.
+
+**Assessment:**
+
+*   The client's frustration with Dave appears to be a displacement of the feelings that come from her relationship with her boyfriend, Josh. She described Josh as being childish, and it appears the immaturity she dislikes in her coworker is a reflection of how she feels about the immaturity of her boyfriend.
+*   The client's presenting issues stem from difficulties in her relationship with her boyfriend, Josh.
+*   The client's difficulty being open about her needs is likely linked to her role as a caretaker in her family and past relationships.
+*   Biopsychosocial Model:
+    *   *Biological:* No significant biological factors were discussed.
+    *   *Psychological:* Client demonstrates a pattern of caretaking and difficulty expressing her own needs. She fears being perceived as "needy."
+    *   *Social:* Client's social context includes friendships and a romantic relationship. Her relationship with Josh is strained by his flakiness and her difficulty expressing her needs. Her friendship with Carla provides an outlet for discussing feelings.
+
+**Plan:**
+
+*   Explore the client's feelings of hurt and disappointment in her relationship with Josh further in the next session.
+*   Help the client connect with and validate her own needs and feelings.
+*   Encourage the client to consider expressing her needs to Josh in a direct and honest manner.
+*   Consider a discussion about the possibility of a couples therapy in future session.
+
+SOAP NOTE: **Subjective:**
+
+*   "Things are okay. This work is just insane right now."
+*   Expresses frustration with a coworker, Dave, who is not completing assigned tasks, making Martha's work more difficult.
+*   "I don't know if other people aren't feeling it, or if they just don't show it in the same way...it's mainly just like when he does things like that where he just drops all of his tasks."
+*   Discusses feelings related to her boyfriend, Josh, and his disappearing for days without contact, which feels "childish."
+*   "I don't know, I feel like...I mean, as I said that he disappears sometimes, just for a few days and doesn't text or anything."
+*   Relates an incident where Josh canceled on a close friend's wedding a couple of days before, offering a vague excuse about his mother.
+*   "It just felt, I don't know, like he wasn't aware of how it would make me feel...also like to do that over text."
+*   Expresses a desire for a long-term relationship with mutual care and checking-in, but feels it's difficult to be dependent on Josh.
+*   "Part of me just wants to be in a relationship where...we can look after each other...someone who's aware of my feelings."
+*   "It feels like a rollercoaster and it's exhausting."
+*    "I love him so much that like to think about not being with him is just I don't know. Can I just put up with with like him flaking out."
+*   "Maybe it's okay to be a little dependent on each other in terms of checking in. Do you feel that you can be dependent on Josh?"
+*   "I feel like I am at time but then I always have to be aware that like you might like out."
+*   "Then I always have to be aware that like you might like out."
+*   Expresses fear of expressing her needs, fearing she will be perceived as a "needy girlfriend."
+*   "I'm the one that's always taking care of other people. And like then on some level, I feel like I had to then take care of Josh."
+*    "You always want to be in that relationship of somebody who you even have to do with the looking after."
+*   "There are things that I would want from him more so than if we were just like casually dating… some level of consistency."
+
+**Objective:**
+
+*   Client initially presents with some anxiety at the start of the session.
+*   Client demonstrates an externalized focus, frequently discussing others (Dave, Josh) rather than her own feelings.
+*   Incongruence noted between client's smiling/laughing and the annoyance she describes.
+*   Client's affect shifts during the session, becoming more serious and less prone to smiling as she discusses deeper feelings related to her relationship with Josh.
+*   Client's pace of speech slows as session progresses and topics become deeper
+*    Client displays difficulty identifying and expressing her own needs.
+
+**Assessment:**
+
+*   The client's frustration with Dave appears to be a displacement of the feelings that come from her relationship with her boyfriend, Josh. She described Josh as being childish, and it appears the immaturity she dislikes in her coworker is a reflection of how she feels about the immaturity of her boyfriend.
+*   The client's presenting issues stem from difficulties in her relationship with her boyfriend, Josh.
+*   The client's difficulty being open about her needs is likely linked to her role as a caretaker in her family and past relationships.
+*   Biopsychosocial Model:
+    *   *Biological:* No significant biological factors were discussed.
+    *   *Psychological:* Client demonstrates a pattern of caretaking and difficulty expressing her own needs. She fears being perceived as "needy."
+    *   *Social:* Client's social context includes friendships and a romantic relationship. Her relationship with Josh is strained by his flakiness and her difficulty expressing her needs. Her friendship with Carla provides an outlet for discussing feelings.
+
+**Plan:**
+
+*   Explore the client's feelings of hurt and disappointment in her relationship with Josh further in the next session.
+*   Help the client connect with and validate her own needs and feelings.
+*   Encourage the client to consider expressing her needs to Josh in a direct and honest manner.
+*   Consider a discussion about the possibility of a couples therapy in future session.
+
+
+ Structure completeness: 100%
+DOGCOW: 4/4 Sections Included.
+
+ Section Lengths:
+  Subjective: 396 words / 37 sentences
+  Objective: 91 words / 5 sentences
+  Assessment: 160 words / 10 sentences
+  Plan: 64 words / 4 sentences
+Hallucination Check: Here are the statements from the SOAP note that contain potential hallucinations, or are not directly supported by the provided transcript:
+
+*   **Objective:** "Client initially presents with some anxiety at the start of the session." While the therapist mentions he was anxious at the start, there is no explicit mention of the client, Martha, being anxious.
+*   **Assessment:** "She described Josh as being childish, and it appears the immaturity she dislikes in her coworker is a reflection of how she feels about the immaturity of her boyfriend." While the client mentions both Dave and Josh acting childish, this is an interpretation, and the client does not explicitly state the feelings about Dave are a displacement of feelings about Josh.
+*   **Assessment:** "Client's social context includes friendships and a romantic relationship. Her relationship with Josh is strained by his flakiness and her difficulty expressing her needs. Her friendship with Carla provides an outlet for discussing feelings." The client states that she talks to Carla but she never directly said that it provides an outlet.
+
+
+Generating 2nd response...
+MSE: **MSE**
+
+**Appearance:**
+Well-groomed, normal hygiene. No specific details regarding age, attire, or distinguishing marks provided.
+
+**Behavior:**
+Initially anxious. Cooperative. Demonstrates some incongruence between affect and expressed emotions (smiling/laughing while describing annoyance). Shift to more serious affect as session progresses.
+
+**Motor Activity:**
+No psychomotor abnormalities noted.
+
+**Speech:**
+Normal rate of speech initially, slowing as session progresses and discussing deeper topics. Volume and rhythm of speech not described.
+
+**Mood:**
+(Not Directly Stated) - inferred to be anxious/frustrated regarding Josh's behavior.
+
+**Affect:**
+Initially incongruent (smiling/laughing while expressing annoyance). Shifts to more serious as session progresses.
+
+**Thought Process:**
+Normal.
+
+**Thought Content:**
+Preoccupied with relationship difficulties with Josh and frustration with coworker, Dave. Concerns about dependence and expressing needs. No suicidal/homicidal ideations or delusions apparent.
+
+**Perceptions:**
+No hallucinations or illusions reported.
+
+**Cognition:**
+*   **Alertness:** Not assessed
+*   **Orientation:** Not assessed
+*   **Concentration:** Not assessed
+*   **Memory:** Not assessed
+*   **Abstract Reasoning:** Not assessed
+
+**Insight:**
+Presumably fair, as client recognizes the issues in the relationship but struggles with how to address them.
+
+**Judgment:**
+(Not Directly Assessed) - inferred to be fair due to the client recognizing problems, but unclear if she can make good decisions to improve relationship.
+
+Generating Thrid response:...
+Risk Level:  Okay, based on the provided Mental Status Exam (MSE) data, here's my assessment of suicide and homicide risk levels, along with the reasoning:
+
+**Suicide Risk:**
+
+*   **Risk Level:** Low.
+
+*   **Reasoning:** The MSE explicitly states "No suicidal/homicidal ideations or delusions apparent."  The absence of any reported thoughts of self-harm, even vague or passive, places the risk in the lowest category.  While the client is experiencing relationship and work-related stress, these do not automatically translate to suicide risk.
+
+**Homicide Risk:**
+
+*   **Risk Level:** Low.
+
+*   **Reasoning:**  As with suicide risk, the MSE clearly states "No suicidal/homicidal ideations or delusions apparent." This rules out any reported thoughts of harming others.  Frustration with a coworker ("Dave") is noted, but without any indication of violent thoughts or intentions, it doesn't elevate the risk.
+
+
+Evaluating SOAP Note Clinically...
+
+Okay, here's my assessment of the SOAP note, broken down by section with scores and explanations:
+
+**Subjective:**
+
+*   **Completeness (1):** The subjective section captures many of the key topics the client discussed, including frustrations with work and the boyfriend, Josh. However, it relies heavily on direct quotes, which, while helpful, could be synthesized into a more concise narrative summary. It captures the essence of the relationships and her general affect from these relationships, but it could be slightly more synthesized.
+*   **Clinical Accuracy (2):** The quotes and summaries accurately reflect the client's statements and feelings as presented in the transcript. The focus on relationship dynamics and feelings of frustration is well-supported by the text.
+*   **Tone and Clarity (1):** The tone is generally appropriate, but the reliance on direct quotes makes it a bit less concise and less "clinical" than ideal. Synthesizing the information would improve clarity.
+
+**Objective:**
+
+*   **Completeness (2):** The objective section is relatively thorough, covering anxiety, focus, affect, speech, and difficulty expressing needs. It touches on the core categories of an objective evaluation.
+*   **Clinical Accuracy (2):** The observations are directly tied to the client's presentation in the session, such as the incongruence between smiling and discussing annoyance, or the shift in affect.
+*   **Tone and Clarity (2):** The language is clear, concise, and professional. Observations are presented without judgment.
+
+**Assessment:**
+
+*   **Completeness (1):** The assessment identifies the relationship with Josh as central and links the work frustration to displaced feelings. The biopsychosocial model is present, but the biological aspect is understandably limited by the information provided. The psychological and social elements are good. It could be better to conceptualize any potential underlying mechanisms of the patients relational patterns, but it's acceptable given the limited nature of the patient history.
+*   **Clinical Accuracy (2):** The interpretations are reasonable and supported by the client's statements and observed behaviors. The connection between caretaking and difficulty expressing needs is a valid inference.
+*   **Tone and Clarity (2):** The assessment is written in clear, clinical language and avoids making unsubstantiated claims. The reasoning is well-articulated.
+
+**Plan:**
+
+*   **Completeness (2):** The plan addresses the core issues identified in the assessment: exploring feelings about the relationship, validating needs, encouraging direct communication, and considering couples therapy. The objectives are well-targeted.
+*   **Clinical Accuracy (2):** The planned interventions are appropriate and align with the client's presenting problems and goals.
+*   **Tone and Clarity (2):** The plan is written in a professional and action-oriented manner. The suggestions are clear and feasible.
+
+**Total Score: 19/24**
+
+**Summary:** The clinician demonstrated good observational skills and developed a sound conceptualization of the client's issues, although the subjective section could benefit from more synthesis and less direct quotation.
+
+venvconnorrose@MacBook-Air Upheal % 
