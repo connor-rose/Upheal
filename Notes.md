@@ -15,6 +15,8 @@ MSE should be more brief, does not require full sentences
 
 - Give the rubric evaluation prompt more guidance on how to grade responses. Rubric based grading is not informative, the model hits a ceiling of 24/24. 
 
+- hallucinations symptoms v outputs error; humurous
+
 # Notes on Prompt 2
 still hits a ceiling with the grading rubric
  

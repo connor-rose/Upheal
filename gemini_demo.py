@@ -5,6 +5,7 @@ from whisper_tool import transcribe_audio
 from dotenv import load_dotenv
 
 load_dotenv()
+
 #Evaluation Functions
 def evaluate_soap_structure(soap_text):
     required_sections = ["Subjective", "Objective", "Assessment", "Plan"]
@@ -32,7 +33,7 @@ def evaluate_section_lengths(soap_text):
             next_section = sections[i + 1]
             pattern = rf"{section}\s*:\s*(.*?)(?={sections[i + 1]}\s*:|$)" if i < len(sections) - 1 else rf"{section}\s*:\s*(.*)"
         else:
-            # For the last section, just capture everything to the end
+          
             pattern = rf"{section}:(.*)"
 
         match = re.search(pattern, soap_text, re.IGNORECASE | re.DOTALL)
@@ -65,7 +66,7 @@ hallucinationprompt_file = "Prompts/hallucinationprompt.txt"
 
 # Checking for transcription
 if os.path.exists(transcription_file):
-    # Load the transcription from the file
+   
     print("Loading transcription from file...")
     with open(transcription_file, "r") as file:
         transcribed_text = file.read()
@@ -93,14 +94,13 @@ with open(exampleMSE_file, "r") as file:
 with open(hallucinationprompt_file, "r") as file:
     hallucinationprompt_template = file.read()
 
-# Replace the placeholder in the prompt with the transcription text
 prompt1 = prompt_template.replace("{transcribed_text}", transcribed_text)
 prompt1 = prompt1.replace("{Example_MSE}", example_mse_content)
 
-# Set the API key for the generative AI client
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel("gemini-2.0-flash")
 
+#Soap Note Generation
 print("Generating first response...")
 response1 = model.generate_content(
     prompt1
@@ -110,10 +110,10 @@ print(response1.text)
 print("SOAP NOTE:", response1.text)
 response1 = response1.text
 
+#next time put these at the end of the output
 evaluate_soap_structure(response1)
 evaluate_section_lengths(response1)
 
-# Prompt to check for hallucinations
 hallucinationprompt = hallucinationprompt_template.replace("{transcribed_text}", transcribed_text)
 hallucinationprompt = hallucinationprompt.replace("{response1}", response1)
 
@@ -124,6 +124,7 @@ print("Hallucination Check:", hallucination_check.text)
 
 prompt2 = prompt2_template.replace("{response1}", response1)
 
+#MMSE Generation
 print("Generating 2nd response...")
 response2 = model.generate_content(
     prompt2
@@ -135,6 +136,7 @@ response2 = response2.text
 prompt3 = prompt3_template.replace("{response1}}", response1)
 prompt3 = prompt3.replace("{response2}", response2)
 
+#Risk Level Generation
 print("Generating Thrid response:...")
 response3 = model.generate_content(
 prompt3
@@ -143,6 +145,7 @@ prompt3
 print("Risk Level: ", response3.text)
 response3 = response3.text
 
+#Rubric Evvaluation
 print("\nEvaluating SOAP Note Clinically...\n")
 rubricprompt = rubric_prompt.replace("{response1}", response1)
 rubric_response = model.generate_content(rubricprompt)
