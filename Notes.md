@@ -39,4 +39,7 @@ still hits a ceiling with the grading rubric
 
  Based on my inputs for the grading rubric, I think this output grade is accurate; more detail and most likely examples, need to be included for the rubric to have a proper floor and ceiling to grade against. 
 
- **I tried re-running the first prompt with the updated rubric (see Responses/SOAP Output/Response 3.txt) and it produced a grade of 19/24. So the basic grading technique of the rubric is validated (I'm not always hitting a ceieling).
+ **I tried re-running the first prompt with the updated rubric (see Responses/SOAP Output/Response 3.txt) and it produced a grade of 19/24. So the basic grading technique of the rubric is validated (I'm not always hitting a ceiling).
+
+I focused entirely on the verbal/clinical inputs and outputs and in future iterations, would focus more on changing parameteres for the LLM. Assuming Temp of .2-.3,  Top-P of .95, and Top-K of 30-40 is the standard starting point, I would adjust to 0 or .1, .90, and K of 10-20 and experiment with the outputs.
+
